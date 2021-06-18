@@ -113,13 +113,14 @@ body{
     color: #c266d3;
 }
 
-/* footer{
+ .footer{
         position: fixed;
-           padding: 10px 10px 0px 0px;
-           bottom: 0;
+           padding: 10px 10px 0px 350px;
+           bottom: 15px;
            width: 100%;
            font-size: 15px;
            height: 20px;
-          text-align: center;
+           color: #0e7162;
+          text-align:left;
 
-} */
+}
